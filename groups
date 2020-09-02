@@ -1,4 +1,5 @@
 # UUID                                                                        	Group Name
 #
 0706f97cf3b2243094a8f24452092769b1065db0                                      	GitHub Replication
+6df41a3131a734c4414dcf283fb45b88e1c32693                                      	saml/akraino-gerrit-apigateway-committers
 ldap:cn=akraino-gerrit-apigateway-committers,ou=Groups,dc=freestandards,dc=org	ldap/akraino-gerrit-apigateway-committers
